@@ -1,7 +1,7 @@
 # awesome-ICUs
 ### a collection of awesome icu projects lists
 # How to Contribute
-make an issue with site url and short description and I'll add the links
+open an issue with site url and short description and I'll add the links
 
 # List
 [611Study ICU | $Li | 你的境遇，掷地有声](https://www.611study.icu/zh-CN)
