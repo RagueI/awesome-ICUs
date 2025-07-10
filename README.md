@@ -10,3 +10,5 @@ open an issue with site url and short description and I'll add the links
 
 [牛马icu | Niuma ICU](https://www.牛马.icu/en/display)
 
+[寻找你身边的自由](https://www.zyo.run/)
+
